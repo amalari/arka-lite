@@ -1,0 +1,13 @@
+{
+    "name": "ArkaLite",
+    "description": "Company Profile",
+    "version": "0.0.2",
+    "dependencies": {
+        "express": "*",
+        "body-parser": "*",
+        "cookie-parser": "*",
+        "express-handlebars": "*",
+        "path": "*"
+    },
+    "devDependencies": {}
+}
